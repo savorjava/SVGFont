@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?> <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" > <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<defs >
+<font horiz-adv-x="512" ><font-face
+    font-family="MI LANTING"
+    units-per-em="1024"
+    panose-1="2 0 0 0 0 0 0 0 0 0"
+    ascent="1069"
+    descent="-289"
+    alphabetic="0" />
+<missing-glyph horiz-adv-x="1024" />
+<glyph unicode="&#x6c99;" horiz-adv-x="1024" d="M912 397Q824 531 744 630L791 662Q885 543 962 434L912 397ZM356 313Q330 330 303 342Q390 488 457 650L509 626Q443 473 356 313ZM305 -106Q291 -73 274 -48Q660 54 854 349L906 313Q800 163 657 59T305 -106ZM595
+230V821H653V230H595ZM155 -87L93 -62Q122 7 154 100T211 282Q238 268 267 258Q216 104 155 -87ZM228 380Q141 450 60 509L96 552Q179 496 267 428L228 380ZM272 627Q192 699 106 762L143 804Q232 741 313 676L272 627Z" />
+</font>
+</defs>
+<g style="font-family: 
+MI LANTING
+; font-size:18;fill:black"> 
+<text x="20" y="60"> !&quot;#$%&amp;&apos;()*+,-./0123456789:;&lt;&gt;?</text> 
+<text x="20" y="120">@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_</text> 
+<text x="20" y="180">`abcdefghijklmnopqrstuvwxyz|{}~</text> 
+<text x="20" y="240">&#x80;&#x81;&#x82;&#x83;&#x84;&#x85;&#x86;&#x87;&#x88;&#x89;&#x8a;&#x8b;&#x8c;&#x8d;&#x8e;&#x8f;&#x90;&#x91;&#x92;&#x93;&#x94;&#x95;&#x96;&#x97;&#x98;&#x99;&#x9a;&#x9b;&#x9c;&#x9d;&#x9e;&#x9f;</text> 
+<text x="20" y="300">&#xa0;&#xa1;&#xa2;&#xa3;&#xa4;&#xa5;&#xa6;&#xa7;&#xa8;&#xa9;&#xaa;&#xab;&#xac;&#xad;&#xae;&#xaf;&#xb0;&#xb1;&#xb2;&#xb3;&#xb4;&#xb5;&#xb6;&#xb7;&#xb8;&#xb9;&#xba;&#xbb;&#xbc;&#xbd;&#xbe;&#xbf;</text> 
+<text x="20" y="360">&#xc0;&#xc1;&#xc2;&#xc3;&#xc4;&#xc5;&#xc6;&#xc7;&#xc8;&#xc9;&#xca;&#xcb;&#xcc;&#xcd;&#xce;&#xcf;&#xd0;&#xd1;&#xd2;&#xd3;&#xd4;&#xd5;&#xd6;&#xd7;&#xd8;&#xd9;&#xda;&#xdb;&#xdc;&#xdd;&#xde;&#xdf;</text> 
+<text x="20" y="420">&#xe0;&#xe1;&#xe2;&#xe3;&#xe4;&#xe5;&#xe6;&#xe7;&#xe8;&#xe9;&#xea;&#xeb;&#xec;&#xed;&#xee;&#xef;&#xf0;&#xf1;&#xf2;&#xf3;&#xf4;&#xf5;&#xf6;&#xf7;&#xf8;&#xf9;&#xfa;&#xfb;&#xfc;&#xfd;&#xfe;&#xff;</text> 
+</g>
+</svg>
